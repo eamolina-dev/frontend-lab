@@ -1,5 +1,4 @@
 import "./App.css";
-import { PhotographyBudget } from "./pages/PhotographyBudget";
 import { RunnnigPage } from "./pages/RunningPage";
 
 function App() {
