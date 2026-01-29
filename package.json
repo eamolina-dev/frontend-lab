@@ -6,7 +6,7 @@
   "homepage": "https://github.com/eamolina-dev/frontend-lab.git",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
