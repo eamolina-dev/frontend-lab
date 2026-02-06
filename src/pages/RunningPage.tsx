@@ -1,12 +1,12 @@
 import { ContactSection } from "../components/ContactSection";
-import CourseSection from "../components/CourseSection";
-import EventInfoSection from "../components/EventInfoSection";
+import CourseSection from "../components/running-page/CourseSection";
+import EventInfoSection from "../components/running-page/EventInfoSection";
 import { FaqSection } from "../components/FaqSection";
 import { Hero } from "../components/HeroImage";
 import Navbar from "../components/NavBar";
-import RaceDescriptionSection from "../components/RaceDescriptionSection";
-import ResultsPreviewTable from "../components/ResultsPreviewTable";
-import RunningGallerySection from "../components/RunningGallerySection";
+import RaceDescriptionSection from "../components/running-page/RaceDescriptionSection";
+import ResultsPreviewTable from "../components/running-page/ResultsPreviewTable";
+import RunningGallerySection from "../components/running-page/RunningGallerySection";
 
 export const RunnnigPage = () => {
   return (

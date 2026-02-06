@@ -1,11 +1,15 @@
 import "./App.css";
-import { RunnnigPage } from "./pages/RunningPage";
+import { MenuPage } from "./pages/MenuPage";
+// import { DiningLayout } from "./components/reservation-page/DiningLayout";
 
 function App() {
   return (
     <>
       {/* <PhotographyBudget /> */}
-      <RunnnigPage />
+      {/* <RunnnigPage /> */}
+      <MenuPage />
+      {/* <DiningLayout /> */}
+      {/* <ReservationPage /> */}
     </>
   );
 }
